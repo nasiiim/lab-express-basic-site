@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    width: 70%;
+    background-color: rgb(58, 84, 75);
+    color: white;
+}
+h1{
+    text-align: center;
+    padding: 16px;
+    font-size: large;
+    
+}
